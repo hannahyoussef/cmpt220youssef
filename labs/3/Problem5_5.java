@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Problem5_5 {
-
+	// JA: The table of the left had increment of 2. The one on the right was until 515.
 	public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);
