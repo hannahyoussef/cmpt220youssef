@@ -38,7 +38,7 @@ public class Problem8_5 {
 				System.out.print(result[i][j] + " ");
 			}
 			System.out.print("\n");
-		}
+		} // JA: You had to print the other two matrices
 	}
 
 	public static double[][] addMatrix(double[][] a, double[][] b) {
