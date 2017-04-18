@@ -1,0 +1,6 @@
+package Problem13_7;
+
+public interface Colorable {
+	/** Describe how to color */
+	String howToColor();
+}
