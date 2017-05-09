@@ -9,7 +9,6 @@ Name: Player3, Score: 239
 Name: Player9, Score: 98
 Name: Player5, Score: 36
 Name: Hannah, Score: -250
-Name: Big Dick Joe, Score: -250
 Name: Hannah, Score: -300
 Name: Hannah, Score: -350
 Name: juan, Score: -350
